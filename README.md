@@ -2,7 +2,7 @@
 Repozytorium projektu: Strona internetowa pn. „Me Gusta+”
 Grupa s2PAM2u: Andrzej Czabajski, Jan Łabaj, Dominik Kamiński
 
-Aby uruchomić projekt, należy zainstalować programy w następujących wersjach:
+Aby uruchomić projekt, należy zainstalować programy w następujących wersjach (w nawiasach ostatnia aktualizacja):
 Python 3.12.2 (7 lutego 2024)
 Framework: Django 5.0 /  Flask 3.0.2 (3 lutego 2024)  - do uzupełnia 
 System zarządzania bazą danych: MySQL 8.3.0 (16 stycznia 2024)
